@@ -1,6 +1,34 @@
 {
-"firstName" : "Dibyamshu",
-"lastName" : "Shrestha",
-"email" : "dibyamshu.shrestha@beyondid.com",
-"userName" : "dibyamshu.shrestha"
+  "user": [
+    {
+      "firstName": "Dibyamshu",
+      "lastName": "Shrestha",
+      "userName": "dibyamshu.shrestha",
+"email":"dibyamshu.shrestha@gmail.com"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+      
